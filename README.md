@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShubhamWaingade
-- 👀 I’m interested in ... Machine Learning, Big Data, Data visualization
-- 🌱 I’m currently learning ... Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Machine Learning, Big Data, Spark, Cloud
+- 🌱 I’m currently learning ... Data Structures
+- 💞️ I’m looking to collaborate on ... Projects around PySpark
 - 📫 How to reach me ...waingadeshubhamp@gmail.com
 
 <!---
